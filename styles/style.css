@@ -7,10 +7,12 @@ body{
 }
 .border{
     border: 3px solid black;
-    display: flex;
+    text-align: center;
+
     font-family: fantasy;
-    justify-content: center;
-    align-items: center;
+     
+   
+    
 }
 
 .button{
