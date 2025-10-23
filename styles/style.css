@@ -25,6 +25,16 @@ body{
     justify-content: center;
     align-items: center;
 }
+.button2{
+    display: flex;
+    width: 20rem;
+    height: 3rem;  
+    background-color: red;
+    margin: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: center;
+    align-items: center;
+}
 
 .container{
     border: 3px transparent;
