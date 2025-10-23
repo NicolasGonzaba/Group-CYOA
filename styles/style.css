@@ -1,16 +1,18 @@
 .button{
+    display: flex;
     width: 10rem;
     height: 3rem;  
     background-color: red;
     margin: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: center;
+    align-items: center;
 }
 
 .container{
     border: 3px transparent;
     display: flex;
     flex-direction: row;
-    /* Main(primary) axes.    Cross (secondary)*/
-
     justify-content: space-evenly;
     align-items: start
     height 90px;
