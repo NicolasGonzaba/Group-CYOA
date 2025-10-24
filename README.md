@@ -6,6 +6,7 @@ Challenge #1 - Group CYOA with styles
 
 We made a choose your own adventure game as a group, each decision takes you to a different page. We used CSS to style it to be halloween themed. 
 
-Peer Review:
+Peer Review: Xavier -everything works as intended to do your game was fun, cool I love the vampire part
+
 
 
