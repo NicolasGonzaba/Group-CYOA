@@ -1,13 +1,11 @@
-// nicolas Gonzaba, Vanessa Acuna, 
+Nicolas Gonzaba, Vanessa Acuna, Arianna Huntley
 
- // Date Revised: October 24 2025 
+Date Revised: October 24 2025 
 
- // Challenge #1 - Group CYOA with styles
+Challenge #1 - Group CYOA with styles
 
- // Brief Description of what you did. 
+We made a choose your own adventure game as a group, each decision takes you to a different page. We used CSS to style it to be halloween themed. 
 
- // You can add multiple dates with description.
-
-// Person who Peer Reviewed your assignment
+Person who Peer Reviewed your assignment
 
 
