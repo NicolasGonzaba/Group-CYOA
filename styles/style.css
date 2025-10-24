@@ -8,11 +8,7 @@ body{
 .border{
     border: 3px solid black;
     text-align: center;
-
-    font-family: fantasy;
-     
-   
-    
+    font-family: fantasy;    
 }
 
 .button{
